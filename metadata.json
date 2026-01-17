@@ -1,0 +1,5 @@
+{
+  "name": "Election RankMaster",
+  "description": "A high-performance local image ranking application using TrueSkill-like pairwise comparisons. Supports large datasets and works offline.",
+  "requestFramePermissions": []
+}
